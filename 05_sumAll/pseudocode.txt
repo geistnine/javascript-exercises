@@ -1,0 +1,8 @@
+Create function
+    if (arg1 > arg2) create variable biggerNum storing arg1 and smallerNum storing arg2
+        else reverse these assignments
+    sum = biggerNum
+    For loop, let i = biggerNum, as long as i is bigger than or equal to smallerNum,
+        decrementing
+        sum += i 
+    return sum
